@@ -1,2 +1,1 @@
-# colispriv--tracker
-A live tracker for colisprivé website 
+Hi, I made this small, lightweight project to put on a VPS to track your packages privately. Package Tracker doesn't send live emails, and I hate having to check the tracking on the website. So I made this little bot that notifies you by email when the tracking progresses. You can also receive live updates on Telegram, which lets you check from time to time if the bot is still working or simply if you don't want to check your emails. I used the Telegram bot API and the Resend API for emails; it's free and has fairly high limits, so it's perfect for this project.
